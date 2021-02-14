@@ -1,1 +1,1 @@
-# Generative-Adversarial-Netwroks-Evolution
+# Generative-adversarial-netwroks-evolution
